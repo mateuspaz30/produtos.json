@@ -1,6 +1,8 @@
-{
-  "nome": "GELADEIRA CONSUL",
-  "preco": "R$ 650,00",
-  "whatsapp": "5516999999999",
-  "foto": "https://images.tcdn.com.br/img/editor/up/1/geladeira.jpg"
-}
+[
+  {
+    "nome": "GELADEIRA TESTE",
+    "preco": "R$ 550,00",
+    "whatsapp": "5516999999999",
+    "foto": "https://img.freepik.com/fotos-gratis/refrigerador-de-duas-portas-em-pe-no-chao_114579-76856.jpg"
+  }
+]
