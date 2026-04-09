@@ -1,15 +1,8 @@
 [
   {
-    "nome": "GELADEIRA CONSUL",
-    "preco": "R$ 650,00",
+    "nome": "GELADEIRA TESTE",
+    "preco": "R$ 500,00",
     "whatsapp": "5516999999999",
-    "foto": "https://img.olx.com.br/images/95/951322108785432.jpg"
-  },
-  {
-    "nome": "SOFA 3 LUGARES",
-    "preco": "R$ 300,00",
-    "whatsapp": "5516888888888",
-    "foto": "https://exemplo.com/foto-do-sofa.jpg"
+    "foto": "https://m.media-amazon.com/images/I/51f6TAn9M8L._AC_SL1000_.jpg"
   }
 ]
-
